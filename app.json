@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ecommerce-app",
-    "slug": "ecommerce-app",
+    "name": "chefio-app",
+    "slug": "chefio-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
